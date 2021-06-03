@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Power and privilege of juries asserted in opposition to the willfully blind and malitious humour of some ill and uncharitable men / published for the information of Heraclytus Ridens and the Doting Observator.</title>
+         </titleStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55585</idno><idno type="EEBO-CITATION">16218207</idno>
+  <idno type="VID">105096</idno>
+  <idno type="EEBO-PROQUEST">2240862406</idno>
+  
+            <idno type="STC">Wing P3103</idno>
+            <idno type="STC">ESTC R37103</idno>
+            <idno type="OCLC">16218207</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55585)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105096)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1599:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Power and privilege of juries asserted in opposition to the willfully blind and malitious humour of some ill and uncharitable men / published for the information of Heraclytus Ridens and the Doting Observator.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Janeway,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard Law School Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Jury --  England.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105096:1"/>
+            <pb facs="tcp:105096:1"/>
+            <p>THE <hi>POWER</hi> and <hi>PRIVILEGE</hi> OF JURIES ASSERTED: In Opposition to the <hi>Willfully Blind,</hi> and <hi>Malitious Humour</hi> of some <hi>Ill</hi> and <hi>Ʋncharitable MEN.</hi>
+            </p>
+            <p>Published for the INFORMATION of <hi>Heraclytus Ridens,</hi> AND THE <hi>Doting Observator,</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Janeway,</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="2" facs="tcp:105096:2"/>
+            <head>REASONS why the Court can neither <hi>Fine</hi> or <hi>Imprison JƲRIES,</hi> &amp;c. for Delivering a <hi>Verdict</hi> according to <hi>Law</hi> and <hi>Their own Consciences.</hi>
+            </head>
+            <p>BEcause such Commitment being without Process and Judicial Trial is against Law <hi>(viz.) Magna Charta,</hi> and the Stat. of 28 <hi>Edw.</hi> 3. <hi>Whereby it is Enacted, That no man in what Estate or Condition soever he be, shall be put out of his Lands or Tenements, nor taken, nor imprisoned, nor disinherited without being brought in to answer by due Process of Law;</hi> and by another Stat. 42. Edw. 3, <hi>That no man be put to Answer without Presentment before Justices, or matter of Record, or by due Process and Writ Original according to the Law of the Land, and if any thing be done to the contrary it shall be void in Law, and holden for Error and against the Pe<g ref="char:EOLhyphen"/>tition of Right,</hi> 3 Car. 1.</p>
+            <p>Tis against the very Institution and intent of JURIES, For,</p>
+            <p n="1">1. They are to be in number 12 at least.</p>
+            <p n="2">2. For quality <hi>lib ri &amp; legales homines.</hi>
+            </p>
+            <p n="3">3. They must be men of Substance and Estate.</p>
+            <p n="4">4. They must be summoned out of the Neighbourhood, where the Fact was done, as most knowing of the Fact and all the Circumstances thereof.</p>
+            <p n="5">5. They are sworn to find according to the Evidence.</p>
+            <p n="6">6. They may be challenged both to the Poll and to the Array: at last when they are fitted for their work they are upon Record said to be <hi>Electi, triati &amp; jurati.</hi>
+            </p>
+            <p>Now all this caution and solemnity is used, because the Law hath intrusted them with so great a part of the Ju<g ref="char:EOLhyphen"/>dicature,
+<pb n="3" facs="tcp:105096:2"/>
+               <hi>viz.</hi> The Trial of the Fact, before the Judg can pronounce Judgment touching the Law arising upon that Fact: And therefore the Rule of Law is, <hi>Ad questionem juris respondent judices, ad questionem facti respondent jura<g ref="char:EOLhyphen"/>tores;</hi> that is, to the question of Law the Judges give their Answer, to the question of Fact the Jury give their An<g ref="char:EOLhyphen"/>swer: such Commitment is manifestly absurd, Because,</p>
+            <p n="1">1. It overthrows all Juries, and consequently all the so<g ref="char:EOLhyphen"/>lemnity in preparing them, as aforesaid.</p>
+            <p n="2">2. It ingrosses and resolves the whole Tryal of the Fact into the breast of the Judg, contrary to the very end of Juries: For to what end are Juries, if having done their Duty, the Judg may punish them for so doing?</p>
+            <p n="3">3. Tis besides, if not against, his Oath and Authority, as he is Judg, both which are to dispence the Laws equally and indifferently according to the best of his skill and knowledg; but not to intermeddle with the Fact: but he that takes upon him the knowledg of the Fact without Authority, and thereupon pronounces the Law, cannot be said to dispense the Law, but to exercise his own Will. In like manner, where Judgment is that a man shall be hanged, and the Sheriff beheads him, this is Felony in the Sheriff, although it is lawful for him to put him to death: so in the principal Case, although if the Fact were true, and the Judges Judgment would have been according to Law; yet because the same Fact might not have been true, and the Judg hath no Authority therein to deal, it follows that his Judgment is Erroneous, for according to the ge<g ref="char:EOLhyphen"/>neral Rule of Reason, <hi>sublato antecedenti tollitur consequens,</hi> the Tryal of the Fact being a necessary Antecedent to the Judgment of the Law.</p>
+            <p n="4">4. It puts <hi>Juries</hi> upon these <hi>Dilemma</hi>'s either to serve or not to serve, if they refuse to serve, they lose Issues, and are punished that way: if they do serve, then they must find according to their Consciences or not: if accor<g ref="char:EOLhyphen"/>ding
+<pb n="4" facs="tcp:105096:3"/> to their Consciences, then they offend the Judg, if it be against his Direction, and such Evidence as seems so to him, and so they incur <hi>Fine, Imprisonment,</hi> and consequent<g ref="char:EOLhyphen"/>ly Death, Temporal Punishments: If not according to their Consciences, then they offend God, and incur Punish<g ref="char:EOLhyphen"/>ments both Temporal and Eternal.</p>
+            <p n="5">5. Again <hi>Juries</hi> are as antient as <hi>Judges,</hi> and therefore the same Law that ordained both <hi>Judges</hi> and <hi>Juries</hi> gave them <hi>divisum imperium,</hi> a divided Authority, and therefore whosoever takes away the Authority of <hi>Juries;</hi> takes away the Authority of the <hi>Judge,</hi> I mean the regular and legal Authority, and besides equality in point of Antiquity, there are other very considerable Parallels between them; For if the Judges are sworn, so are the <hi>Juries;</hi> if the <hi>Judges</hi> are constituted by Patent, the Jury are constituted by Writ; If the Judges are to administer the Law truly and sincerely; the <hi>Jury</hi> are to find the Fact truly and sincere<g ref="char:EOLhyphen"/>ly; Now if the <hi>Judge</hi> give in an Erroneous or false judg<g ref="char:EOLhyphen"/>ment, yet shall not be questioned nor punished, if he proceed according to his Conscience; by the same reason ought not the <hi>Jury</hi> to be punished, when nothing of cor<g ref="char:EOLhyphen"/>ruption or undue practice can be charged on them; so that if it be absurd to punish the one, its also absurd to punish the other.</p>
+            <p n="6">6. Where a <hi>Jury</hi> can be charged with any undue or si<g ref="char:EOLhyphen"/>nister matter, as by taking Bribes, or suffering themselves to be laboured with, the Law hath provided proper pu<g ref="char:EOLhyphen"/>nishments for them; but the Law hath provided no pu<g ref="char:EOLhyphen"/>nishments, where a <hi>Jury</hi> proceed according to their Con<g ref="char:EOLhyphen"/>science, and therefore what they do therein is without breach of any Law.</p>
+            <p n="7">7. It is absurd in respect of it's opposition to the gene<g ref="char:EOLhyphen"/>ral Rules of the Law of God, for it is said, God accepts a man not according to what he hath not, but according to what he hath: But in this case, if the Judge should
+<pb n="5" facs="tcp:105096:3"/> punish the Jury, a Jury-man is bound to bring in his Verdict not according to what he hath <hi>(viz.)</hi> in point of knowledge or belief, but according to what he hath not <hi>(viz,)</hi> by the direction and suggestion of ano<g ref="char:EOLhyphen"/>ther <hi>Sc.</hi> the Judge; although it be against his own know<g ref="char:EOLhyphen"/>ledge or belief.</p>
+            <p n="8">8. 'Tis contrary to this Rule, Whatsoever is not of Faith, is Sin: now if a Jury bring in a Verdict according to the direction of the Court, but contrary to their own Judgments and Consciences; then this doing of theirs is not of faith, in as much as they do not believe it and conse<g ref="char:EOLhyphen"/>quently it is Sin. 'Tis contrary to this Rule also, <hi>Thou shalt swear in Judgment, Righteousness and Truth.</hi> Now for<g ref="char:EOLhyphen"/>asmuch as the Verdict of the Jury is an effect of their Oath, it follows that it ought to have all those Conco<g ref="char:EOLhyphen"/>mitants, that is, it ought to be in Judgment, to wit, accord<g ref="char:EOLhyphen"/>ing to the Judgment of him that swears, for another mans Judgment as such can not be his; it ought to be in <hi>Righteousness</hi> void of all <hi>Partiallity</hi> and <hi>Passion,</hi> and so not to be biassed by fear of the mighty, no not of any Judg<g ref="char:EOLhyphen"/>es direction; nor by pitty of the poor: It ought to be <hi>Truth,</hi> that is, in <hi>Truth</hi> towards themselves, to wit, in Conformity and Agreement to their own Consciences, in truth to the Prisoner, without Falshood or Dissimula<g ref="char:EOLhyphen"/>tion, in truth to the Fact, without Perverting, Adding, or Diminishing; So that if but a part of the Fact requi<g ref="char:EOLhyphen"/>site to make a Guilt be proved, the Jury ought by no means to find the whole fact, for that were to deal false<g ref="char:EOLhyphen"/>ly contrary to their Oaths.</p>
+            <p n="9">9. 'Tis contrary to that universal principal of Reason and Justice, of doing to one another as a man would be done unto, and <hi>e contra;</hi> but for a Judge to compel a Jury being upon their Oathes to find according to his directi<g ref="char:EOLhyphen"/>on, and what he calls Evidence, is all one as if another Authority Superiour or Coordinate with the Judg,
+<pb n="6" facs="tcp:105096:4"/> should by punishment compel him being upon his Oath to pronounce the law according to the sence of that Au<g ref="char:EOLhyphen"/>thority, and not according to his own Conscience and best understanding, which I suppose no Judge will be willing to take for Law or Reason; why then should he put that in practice, which hims<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lf disalloweth in ano<g ref="char:EOLhyphen"/>ther? and therefore as he himself would be free in respect of his Oath, so ought the Jury to have the like freedom in respect of their Oaths: And from this general Rule of Nature, proceeds another Secondary Notion or Rule, <hi>Par in Parem non habet Potestatem,</hi> perfectly applicable in this Case, for although in some other respects there is a great disparity between the Judge and the Jury, and principally in the Education, Learning and Grandeur of the one, and the middle State of the other, <hi>&amp;c.</hi> Yet in this case, as to the very point of acquitting the guilt<g ref="char:EOLhyphen"/>less and condemning the guilty, they seem to me perfect<g ref="char:EOLhyphen"/>ly equal, and no <hi>Magis</hi> or <hi>Minus</hi> between them, but Coadjuvant and Co-working causes in bringing forth that great effect, Justice.</p>
+            <p n="10">10. Because the act of the one <hi>(to wit)</hi> the Judg is consequent to the Act of the other; so if the one do no<g ref="char:EOLhyphen"/>thing, the other can do nothing; and as to the Judges direction, Tis no more than a direction which no doubt every Discreet and Sober Jury ought diligently to listen to for their information, because of the learning and abi<g ref="char:EOLhyphen"/>lity in the Judge, to methodize and open what perhaps hath been confusedly and obscurely delivered by the wit<g ref="char:EOLhyphen"/>nesses: But if it exceed the bounds of a direction, and becomes cloathed with the rough Garment of compulsi<g ref="char:EOLhyphen"/>on, it will seem then to degenerate from its own Nature, and first Reason and Institution.</p>
+            <p n="11">11. Moreover the Juries are Tryers, that is, are sole Judges of the fact, appears from hence, because the trial by the Jury is a trial by it self distinct from, and contra<g ref="char:EOLhyphen"/>distinguished
+<pb n="7" facs="tcp:105096:4"/> to other trials instituted by law; for there are tryals (1.) By Battle, an ancient manner of Tryal upon a Writ of Right. (2.) By inspection of the Court upon a writ of Errour to reverse a Fine acknowledged by an infant (3.) By the Ordinaries certificate upon a Writ of Dower, where the Tenant pleads the woman was not lawfully married to her dead Husband (4) By witnesses before the Justices upon a writ of Dower; if the tenant plead the Husband be alive it shall be tryed by witnesses (5.) By the Country, that is, Juries as in the case in questi<g ref="char:EOLhyphen"/>on. Now if a tryal by a Jury be distinct from a tryal by witnesses; then it is not the same: Whereas if the Jury were compellable to find according to the Saying or Swearing of the witnesses, then it will be clearly the same, that is, a tryal by witnesses, and consequently the having of a Jury would be but troublesom, dilatory and impertinent, because the Judge in respect of his own Skill and Learning, can both better examine and under<g ref="char:EOLhyphen"/>stand their testimony than Juries, who are for the most part <hi>Gentlemen.</hi> Now if a tryal by a Jury and a tryal by witnesses be several things, then is not a Jury compel<g ref="char:EOLhyphen"/>lable by the Judge to give their Verdict, no not according to the testimony of the witnesses, for they may be <hi>Cor<g ref="char:EOLhyphen"/>rupt, Partial, Infamous</hi> or otherwise <hi>Unmeet,</hi> which is re<g ref="char:EOLhyphen"/>ferred to the Judgment of the Jury, who where supposed to be Cognizant of them, because they are of the neigh<g ref="char:EOLhyphen"/>bourhood, and is not referred to the Judge who may well be supposed to be ignorant of those circumstances and con<g ref="char:EOLhyphen"/>ditions of witnesses and parties, <hi>&amp;c.</hi> And certainly it was the great wisdom of Antiquity, not to intrust the ad<g ref="char:EOLhyphen"/>ministration of Law, to the breast of one or a few great men alone, though never so Sincere or Learned, without the concurrence of a considerable number of the body of the people, which are the Jury. But of this there will be occasion to speak when it shall be shewn what is meant
+<pb n="8" facs="tcp:105096:5"/> by the word <hi>Evid<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce,</hi> neither is it superfluous to consi<g ref="char:EOLhyphen"/>der that this tryal by a Jury in Criminal Causes, said to be a tryal by God and the Country; which seems to Im<g ref="char:EOLhyphen"/>ply the absoluteness of it. So that the acquittal by the Country is an acquittal by God, and a finding Guilty by the Country, a finding Guilty by God.</p>
+            <p n="12">12. Again if Juries be compellable by a Judge to give their verdict as aforesaid, in vain are those Eulogiums and Praises everywhere resounding concerning Juries both in Law, History, and Policy of our English Nation: In vain doth that learned and Sincere Judg <hi>Fortescue</hi> place the most principal parts of the commendations of the Laws of England, in tryals by a Jury, ab<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve and beyond the tryals by witnesses in the Civil Law. Whereas if this in question be admitted, That Juries may be fined by the Judg as aforesaid, then is this tryal by a Jury far worse than by witnesses, in the Civil Law; Because that kind of tryal is not <hi>viva voce,</hi> but by examination upon Inter<g ref="char:EOLhyphen"/>rogatories by Officers appointed in that behalf, which examination is taken in writing of every witness apart, and several, the one not knowing what the other hath said, and so remains upon record to posterity, and then the Plantiff or Defendant may cross examine each others witnesses, and that leisurely with deliberation for bolt<g ref="char:EOLhyphen"/>ing out the truth, and discovery of falshood and con<g ref="char:EOLhyphen"/>tradiction. Whereas in our Case the witnesses are exa<g ref="char:EOLhyphen"/>mined <hi>viva voce,</hi> upon a suddain altogether: So that there can be neither such sifting them, nor if they for<g ref="char:EOLhyphen"/>swear themselves by contradictions, can it be so well ob<g ref="char:EOLhyphen"/>served or remembred, for <hi>vox audita perit</hi> and so remains not to posterity to take notice of: In like cases, shall it therefore be thought reasonable that mens Lives, Liber<g ref="char:EOLhyphen"/>ties, and Estates should be bound up in so narrow and dangerous a Compass, as the direction of a Judg against Evidence seeming so to him? Moreover in vain doth Sir
+<pb n="9" facs="tcp:105096:5"/>
+               <hi>Thomas Smith</hi> cries up the peaceable and happy policy of this Kingdom, by that one thing of Juries, wherein no man if he be condemned can blame the King or the No<g ref="char:EOLhyphen"/>bles, or the Judges, or the Men of Power, the frequent objects of envy, but his own Peers, and so every man rests content, and the Government secured. In vain al<g ref="char:EOLhyphen"/>so may the Prisoner at the Bar in Capital Causes, chal<g ref="char:EOLhyphen"/>lenge peremptorily 35 Jurours; without shewing cause. If when the next Jury, which is supposed to be most indifferent for the Prisoner, shall be compellable to give their verdict according to the Judges direction and what he calls evidence.</p>
+            <p>But doubtless all this defence for Juries needs not, if there was no colour or pretence of reason for the said Fine and Commitment. 'Tis said therefore, that there are several Precedents and Cases in Law, whereby it ap<g ref="char:EOLhyphen"/>pears that Judges in criminal causes, have Fined and Imprisoned Juries for not finding according to evidence. For answer; To find against Evidence, is manifestly un<g ref="char:EOLhyphen"/>lawful; for that is to Fine against conscience, and to speak with the mouth, what is not believed in the heart. What therefore in Natural and Rational signification, Evidence is, and what that word means, is the question.</p>
+            <p n="1">1. By what hath been said it should seem in general, that that is no Evidence (that is, binding Evidence) which only seems so to the Judge; for if it were, then whether it seem so to the Jury or not, they would be bound to find according thereunto, contrary to the reasons aforesaid.</p>
+            <p n="2">2. Nor is it what seems so to the people <hi>(viz.)</hi> the Spe<g ref="char:EOLhyphen"/>ctators, or Standers by in Court; for they have no share in the administration at all.</p>
+            <p n="3">3 It follows then, It is what ever appears to the Jury, to be necessary to inform their Consciences and Judgments, concerning the truth of what is inquirable before them.</p>
+            <p>And that this is so, appears from hence, because ad<g ref="char:EOLhyphen"/>mitting
+<pb n="10" facs="tcp:105096:6"/> in an indictment of Robbery, Evidence be that the Prisoner such a day and at such an hour of the day, and at such a place, did rob a man, and one of the Jury knows the Prisoner, who perhaps is his neighbour: he knows also that the same day, and at the same hour of the day, the Prisoner was at another place, perhaps in his own company upon such or such an occasion. The question is, whe<g ref="char:EOLhyphen"/>ther the Ju<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or shall proceed according to his evidence, <hi>Id est,</hi> his own knowledge, or according to the external evidence or swearing of the witnesses. I suppose it will be answered, According <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o his own knowledge, and is it not likely that a Jury will, nay ought they not to be sooner moved with the Evidence of one of their fellows, than the Evidence of a stranger. If so? shall they be punished afterwards for their verdict thereupon?</p>
+            <p>'Tis true the Judges doe use to determine the pertinency of Evidence that is, whether this or that thing be necessary and meet to be shown to the Jury, and therefore in civil causes either party may Demur to the Evidence, and then the Judges rule; whether it shall be made use of or not. But when the Evidence is given, 'Tis still in the consci<g ref="char:EOLhyphen"/>ence of the Jury, what credence they will give to it, otherwise all the absurdities aforespoken of will follow.</p>
+            <p>And as concerning Precedents, though it be true they ought to be weighed and regarded with great sobriety and humility, and <hi>A communi observantia non est recedendum,</hi> yet none of them ought to be made use of against Reason and the Principles of Justice; nor are they further Argumentative than they are agreeable thereun<g ref="char:EOLhyphen"/>to; for if it be true, <hi>Ʋno absurdo dato mille sequuntur;</hi> no reason if when one inconvenient Precedent is formed by reason of some in<g ref="char:EOLhyphen"/>cident circumstances of that particular Case, it be afterwards vouched to warrant another like Case, the nature of man being more ready to embrace Errour and Falshood, rather than Truth and sound Reason. Nor is it rare and strange for later times as they are more or less vertuous and knowing than the former, to differ from and reject the actions and precedents of their Ance<g ref="char:EOLhyphen"/>stors. Nor can any of those Precedents plead any such Antiquity, as the most ancient and bottomless Custom and Law of Juries, with their Privilege and Authority. Nay, I suppose it will be hard to make them reach beyond the time of <hi>Hen.</hi> 8. which perhaps is not beyond the memory of some men living.</p>
+            <p>Another reason which is objected for punishing Juries, for going against Evidence in Criminal Causes is,</p>
+            <pb n="11" facs="tcp:105096:6"/>
+            <p>Because in Civil Causes there lies an Attaint, but in these Cases none: and therefore if a Jury should not be punished, there would be no remedy, but persons manifestly guilty might be acquitted, to the great hurt and damage of the King and Kingdom. As touch<g ref="char:EOLhyphen"/>ing the Non-remedy enough hath been spoken before, and more may be said; for in all States and Governments the Administrati<g ref="char:EOLhyphen"/>on of the Law must be intrusted somewhere, and there must be a <hi>Ne plus ultra</hi> in all Controversie whatsoever, for <hi>Interest reipublicae ut sit finis litium.</hi> Now the Law hath prudently and carefully lodg<g ref="char:EOLhyphen"/>ed that Trust by way of distribution between the Judge and Jury, as is said before; and if they do not their duty, it may be said in such case as a most Divine Author doth in such a like, <hi>If the light within thee be darkness, how great is that darkness!</hi> As touching the Da<g ref="char:EOLhyphen"/>mage arising by Acquittal, there is little reason to infer a Spring from one or two Swallows; that is, to conclude because one or two Juries in an Age are mistaken, that therefore they will univer<g ref="char:EOLhyphen"/>sally so do, I say there is little reason so to think.</p>
+            <p n="1">1. Not to reiterate any thing before spoken, because Juries are or ought not to be standing but successive.</p>
+            <p n="2">2. It is or rationally should be chiefly their care to prevent it, because persons of their condition are most obnoxious to the prejudice proceeding from the Impunity, when persons of greater Rank are perhaps better guarded, and so exempted from such dan<g ref="char:EOLhyphen"/>ger. And if the Offence be of an Epidemical nature striking at the State, they also will have a greater share <hi>pro ratione mali,</hi> of the mischief of the Impunity of any, both in themselves and their Poste<g ref="char:EOLhyphen"/>rity. As to the Attaint,</p>
+            <p n="1">1. The Non-allowance or institution of that in Criminal Causes perhaps (and very rationally) might be <hi>in favorem vitae,</hi> in favour of life, by not drawing a mans Life, Estate, and Posterity in effect, in question twice for the same thing. The Law as all good and laudable Laws inclining more to Mercy than Justice, and this upon the self same reason as the said Challenge of 35 is allowed.</p>
+            <p n="2">2. Because in Criminal Causes two Juries pals upon the priso<g ref="char:EOLhyphen"/>ner, <hi>viz.</hi> the Grand Jury and the Petty Jury, both of which have their several Office and Effects; and there the Petty Jury are in lieu of a Jury upon an Attaint, and therefore no reason when the Petty Jury hath acquitted him, he should be subject to be found guilty by another Jury after, and the Petty Jury punished as in At<g ref="char:EOLhyphen"/>taint, for that were to punish one Jury after another <hi>in infinitum.</hi>
+            </p>
+            <p n="3">
+               <pb n="12" facs="tcp:105096:7"/>3. The Judgment, amongst other things, upon an Attaint is, that the Party grieved by the first Verdict and Judgment, shall be restored to what he lost thereby; and therefore if an Attaint should lie in Criminal Causes, it should be for the beheof of the Prisoner, that he might be restored. On the other side, if it doth not lye, the King loses nothing by it, but the Acquittal by the Petty Jury preserves the Subject; and certainly, when any thing is doubtful, it is better to preserve than to destroy.</p>
+            <p>The second General Head, or Reason, upon which the Jurors ought to be discharged, is for the Erroneousness of the Judgment and Execution by which they stand committed.</p>
+            <p n="1">1. The Fine is one entire Fine of 100 Marks, and imposed joynt<g ref="char:EOLhyphen"/>ly and severally; so that every one is punished for the Offence of the other, contrary to all the Precedents; for though one be wil<g ref="char:EOLhyphen"/>ling to pay his proportion, yet shall he not be discharged till he hath paid the proportions of all the rest; so one shall pay all the Fine, and others pay nothing, or else he cannot be discharged; and this is like to fall upon the weakest, both in Person and Estate, (that is to say) that is less able to endure imprisonment.</p>
+            <p n="2">2. Because the <hi>Capiatur</hi> is until they shall pay their several Fines, and there are no several Fines, but one entire Fine; and so the sence is, that they shall be imprisoned until they pay nothing, and then the Commitment is void.</p>
+            <p>The Reason of the Judgment is, because the Jurors gave their Verdict against full Evidence, and it doth not particularize the Evidence that was given, whereby it may appear whether it was full or not. Now inasmuch as the Court which pronounced the Judgment is an Inferiour Court, so that a man may Appeal from their Judgment to a Superiour, and there is nothing for the Supe<g ref="char:EOLhyphen"/>riour Court to Judge upon, but the Body of the Record; it fol<g ref="char:EOLhyphen"/>lows, if that Record be obscure, too general, or uncertain, that the Superiour Court cannot give Judgment, and consequently that the Record is void: for if the question be whether the Evi<g ref="char:EOLhyphen"/>dence was full or not, it must either be determined by the Supe<g ref="char:EOLhyphen"/>riour Court, or by the Inferiour Court; if by the Inferiour Court, then the Appeal is in vain; if by the Superiour Court, then there is nothing before them to guide and govern their Judg<g ref="char:EOLhyphen"/>ments, but that very thing which is the cause of the Complaint of the Parties grieved, and so the Appeal is in vain.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:105096:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
